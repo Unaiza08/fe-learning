@@ -30,6 +30,19 @@ button{
     font-size: 27px;
 
 }
+#output{
+    background:none;
+    text-align: right;
+    
+    margin: 0px;
+    color: #FFFFFF;
+    text-overflow: clip;
+    word-wrap: break-word;
+    font-size: 58px;
+    border: 0;
+   
+}
+
 .buttons{
     display: flex;
     flex-direction: row;
